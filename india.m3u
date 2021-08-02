@@ -247,3 +247,19 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/8997
 http://iptv.tvmalaysia.cc:80/penang172/penang172/8998
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English",Movies Now
 http://iptv.tvmalaysia.cc:80/penang172/penang172/8999
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="News" tvg-logo="https://i.imgur.com/PvI2PCX.png" , Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - Hindi" ,Star Cinema HD
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - Hindi" ,Star Family HD
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment - English",Zee World
+https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music",Zee5 Originals
+https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music",Zee5 Romance
+https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music",Zing
+https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu",TV9 News (HD / తెలుగు)
+https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8
