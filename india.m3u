@@ -135,8 +135,6 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://i.imgur.com/ti0gJR2.png",Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://i.imgur.com/6uHly3s.png",Discovery Turbo
-http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://i.imgur.com/5OzuEyR.png",History Channel
 http://topwin-tv.my.id/2/chunklist.m3u8?id=history&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://i.imgur.com/MCyL9wX.png",National Geographic Wild
@@ -147,8 +145,6 @@ http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="https://i.imgur.com/L8LTymM.jpg",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="https://imgur.com/BNaXQWX.png",Movies Now HD
-http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://i.imgur.com/2DxwN2m.png",Discovery Investigation
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://imgur.com/3mpHZPn.png",Rush Channel
@@ -173,8 +169,6 @@ http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stre
 http://70.39.83.58:8278/sonichindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Junior Hindi
 http://103.153.39.34:8000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://i.imgur.com/t0Ecro6.png",Hungama Tv
-http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English",HBO
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English",HBO Signature
@@ -187,7 +181,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Polic
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=KBhaAaXrCwMsBkDFHC9LeTOVZVQql64ghSq~JRl-f4IAhjLP8irJ04K0dO5SZfXZPsKB0q-uDJeTkg-FVHp-Vrx9KXPMMm8TVIGUVo8G~l2kiQC394BSLeILiLRUwd37sIiaFLvhYYfdY3nutd8DLqycvvA38FT1XXcdC225uoMT97ifxQ9Cmsp9VKsr3PWSZrXcYgXqf4GzdZasxjxLRFyKjml7R21sgGoWwrJ7yuyG5e44QsaZuHlJJtLgU3uCt4wSacE15LW57hu49sEPTHhHBhzbPu6Jv8fDh1ffpcxnVp3rbMYAmmkbMVCws5pvi-tUfYt0nY5hLB4BNP5QdA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English",RED by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - Enlish",Bioskop Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English",Bioskop Indonesia
 http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png",Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
@@ -199,16 +193,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7062
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg",HBO FHD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/dde6d5223d908187cdc7941755aeb078.jpg",HBO Hits FHD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png",HBO Signature FHD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7069
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png",HBO Family FHD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png",Hits Movies
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7066
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/30b3db0865e095679afe6d133e395059.jpg",Red By HBO HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7071
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png",Warner TV HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1",National Geographic HD
@@ -225,34 +213,14 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7077
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="http://tvmalaysia.cc:80/images/4fbf759d882bba8bf2f629a61df99878.png",HGTV
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/963c196b98b7111073c3ae49f91f3d3f.jpg",Thrill
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7220
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/7890c2461a7545adcc4b2050f334a152.jpg",AXN
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7223
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/956e6c6e1bf91476f99d573849bbe706.jpg",Fox Crime
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7225
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/d6161eaf1dfd7140aac03dcdc9f87b3e.png",Fox Life
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/c9d2b55dea34704104efde328f0436a3.png",KiX
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7229
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/895f475aeff0da729ad1e5f21a450875.jpg",Celestial Classic Movies.
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7222
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/00a16262a08aa5b141f58e660f016339.jpg",Celestial Movies
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7235
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="http://tvmalaysia.cc:80/images/f4e3c658251f8ca3542a5887c8f548b9.png",Tom & Jerry HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8986
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/ac70f22a3e263c94424e4f488136489e.png",Star Movies HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/8997
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English",MNX
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8998
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English",Movies Now
 http://iptv.tvmalaysia.cc:80/penang172/penang172/8999
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="News" tvg-logo="https://i.imgur.com/PvI2PCX.png" , Republic TV
-https://weblive.republicworld.com/liveorigin/republictv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - Hindi" ,Star Cinema HD
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - Hindi" ,Star Family HD
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment - English",Zee World
 https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Music",Zee5 Originals
@@ -261,5 +229,13 @@ https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Music",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Telugu",TV9 News (HD / తెలుగు)
-https://vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Movies - Hindi",Zing
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:-1 tvg-name="Bflix Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-bflix-movies-2320.jpg" group-title="Movies - Hindi",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-name="9xm" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xm
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:-1 tvg-name="Mastii Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Mastiii_tv_channel.png" group-title="Music",Mastii Music
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+#EXTINF:-1 tvg-name="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg" group-title="News",Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
