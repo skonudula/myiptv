@@ -183,21 +183,17 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=e
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English",Bioskop Indonesia
 http://abdrahim.my.id/live/tvindo/citrabioskop.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png",Drama Sangat
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - Hindi" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png",Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/prive.png",&Prive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://kamiselaluada.com/img/flix.png",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png",Cinemax FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png",Cinemax FHD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7062
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg",HBO FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg",HBO FHD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png",HBO Signature FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/70c49744e9d20d7018631a3968bed6a2.png",HBO Signature FHD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7069
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png",HBO Family FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/edd35b48dea4ae392512307e9adb7fcd.png",HBO Family FHD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png",Warner TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/85fd03e3d30040c99bfcec3cbb51cbe1.png",Warner TV HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1",National Geographic HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
