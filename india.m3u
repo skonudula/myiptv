@@ -1,86 +1,86 @@
 #EXTM3U url-tvg="http://rstream.me/epg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="ETV HD" group-title="Telugu",ETV HD
+#EXTINF:-1 tvg-id="ts359" tvg-name="ETV HD" group-title="Telugu",ETV HD
 http://rv.flysat.live:80/307210013157/307210013157/83999
-#EXTINF:-1 tvg-id="" tvg-name="GEMINI HD" group-title="Telugu",GEMINI HD
+#EXTINF:-1 tvg-id="ts355" tvg-name="GEMINI HD" group-title="Telugu",GEMINI HD
 http://rv.flysat.live:80/307210013157/307210013157/83998
-#EXTINF:-1 tvg-id="" tvg-name="STAR MAA HD" group-title="Telugu",STAR MAA HD
+#EXTINF:-1 tvg-id="ts516" tvg-name="STAR MAA HD" group-title="Telugu",STAR MAA HD
 http://rv.flysat.live:80/307210013157/307210013157/83988
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TELUGU HD" group-title="Telugu",ZEE TELUGU HD
+#EXTINF:-1 tvg-id="ts635" tvg-name="ZEE TELUGU HD" group-title="Telugu",ZEE TELUGU HD
 http://rv.flysat.live:80/307210013157/307210013157/83982
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMALU HD" group-title="Telugu",ZEE CINEMALU HD
+#EXTINF:-1 tvg-id="ts636" tvg-name="ZEE CINEMALU HD" group-title="Telugu",ZEE CINEMALU HD
 http://rv.flysat.live:80/307210013157/307210013157/83983
-#EXTINF:-1 tvg-id="" tvg-name="GEMINI MOVIES HD" group-title="Telugu",GEMINI MOVIES HD
+#EXTINF:-1 tvg-id="sun26570" tvg-name="GEMINI MOVIES HD" group-title="Telugu",GEMINI MOVIES HD
 http://rv.flysat.live:80/307210013157/307210013157/83997
-#EXTINF:-1 tvg-id="" tvg-name="STAR MAA MOVIES HD" group-title="Telugu",STAR MAA MOVIES HD
+#EXTINF:-1 tvg-id="ts387" tvg-name="STAR MAA MOVIES HD" group-title="Telugu",STAR MAA MOVIES HD
 http://rv.flysat.live:80/307210013157/307210013157/83994
-#EXTINF:-1 tvg-id="" tvg-name="STAR MAA GOLD HD" group-title="Telugu",STAR MAA GOLD HD
+#EXTINF:-1 tvg-id="ts388" tvg-name="STAR MAA GOLD HD" group-title="Telugu",STAR MAA GOLD HD
 http://rv.flysat.live:80/307210013157/307210013157/83989
-#EXTINF:-1 tvg-id="" tvg-name="ETV PLUS" group-title="Telugu",ETV PLUS
+#EXTINF:-1 tvg-id="ts352" tvg-name="ETV PLUS" group-title="Telugu",ETV PLUS
 http://rv.flysat.live:80/307210013157/307210013157/83984
-#EXTINF:-1 tvg-id="" tvg-name="ETV CINEMA" group-title="Telugu",ETV CINEMA
+#EXTINF:-1 tvg-id="ts128" tvg-name="ETV CINEMA" group-title="Telugu",ETV CINEMA
 http://rv.flysat.live:80/307210013157/307210013157/84000
+#EXTINF:-1 tvg-id="sun9027" tvg-name="GEMINI COMEDY" group-title="Telugu",GEMINI COMEDY
+http://rv.flysat.live:80/307210013157/307210013157/83996
 #EXTINF:-1 tvg-id="" tvg-name="TATA SKY TELUGU CINEMA HD" group-title="Telugu",TATA SKY TELUGU CINEMA HD
 http://rv.flysat.live:80/307210013157/307210013157/83987
-#EXTINF:-1 tvg-id="" tvg-name="GEMINI COMEDY" group-title="Telugu",GEMINI COMEDY
-http://rv.flysat.live:80/307210013157/307210013157/83996
 #EXTINF:-1 tvg-id="" tvg-name="TBO Classic Telugu" group-title="Telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/TBO_CLASSIC_TV_black.png",TBO Classic Telugu
 https://catchup.yuppcdn.net/amazonv2/20/preview/tboclassic/master/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Asia Telugu" group-title="Telugu",TV Asia Telugu
 https://streaming66.worldbbtv.com/hls/tvasiatelugu.m3u8
-#EXTINF:-1 tvg-name="Studio One Plus" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.jpg" group-title="Telugu",Studio One Plus
+#EXTINF:-1 tvg-id="1274" tvg-name="Studio One Plus" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.jpg" group-title="Telugu",Studio One Plus
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VANITHA TV" group-title="Telugu",VANITHA TV
+#EXTINF:-1 tvg-id="775" tvg-name="VANITHA TV" group-title="Telugu",VANITHA TV
 http://rv.flysat.live:80/307210013157/307210013157/83973
 #EXTINF:-1 tvg-id="" tvg-name="KUSHI TV" group-title="Telugu",KUSHI TV
 http://rv.flysat.live:80/307210013157/307210013157/83971
-#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" group-title="Telugu",SONY YAY
+#EXTINF:-1 tvg-id="874" tvg-name="SONY YAY" group-title="Telugu",SONY YAY
 http://rv.flysat.live:80/307210013157/307210013157/83977
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" group-title="Telugu", DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="ts341" tvg-name="DISCOVERY WORLD HD" group-title="Telugu", DISCOVERY WORLD HD
 http://rv.flysat.live:80/307210013157/307210013157/84001
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 18 TELUGU HD" group-title="Telugu",HISTORY 18 TELUGU HD
+#EXTINF:-1 tvg-id="ts616" tvg-name="HISTORY 18 TELUGU HD" group-title="Telugu",HISTORY 18 TELUGU HD
 http://rv.flysat.live:80/307210013157/307210013157/83995
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" group-title="Telugu",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="ts605" tvg-name="NATIONAL GEOGRAPHIC HD" group-title="Telugu",NATIONAL GEOGRAPHIC HD
 http://rv.flysat.live:80/307210013157/307210013157/83993
-#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH HD" group-title="Telugu",SONY BBC EARTH HD
+#EXTINF:-1 tvg-id="ts460" tvg-name="SONY BBC EARTH HD" group-title="Telugu",SONY BBC EARTH HD
 http://rv.flysat.live:80/307210013157/307210013157/83990
-#EXTINF:-1 tvg-id="" tvg-name="RAJ MUSIC TELUGU" group-title="Telugu",RAJ MUSIC TELUGU
+#EXTINF:-1 tvg-id="737" tvg-name="RAJ MUSIC TELUGU" group-title="Telugu",RAJ MUSIC TELUGU
 http://rv.flysat.live:80/307210013157/307210013157/83992
-#EXTINF:-1 tvg-id="" tvg-name="GEMINI MUSIC" group-title="Telugu",GEMINI MUSIC
+#EXTINF:-1 tvg-id="sun26568" tvg-name="GEMINI MUSIC" group-title="Telugu",GEMINI MUSIC
 http://rv.flysat.live:80/307210013157/307210013157/83981
-#EXTINF:-1 tvg-id="" tvg-name="GEMINI LIFE" group-title="Telugu",GEMINI LIFE
+#EXTINF:-1 tvg-id="sun26572" tvg-name="GEMINI LIFE" group-title="Telugu",GEMINI LIFE
 http://rv.flysat.live:80/307210013157/307210013157/83980
-#EXTINF:-1 tvg-id="" tvg-name="ETV LIFE" group-title="Telugu",ETV LIFE
+#EXTINF:-1 tvg-id="ts268" tvg-name="ETV LIFE" group-title="Telugu",ETV LIFE
 http://rv.flysat.live:80/307210013157/307210013157/83979
-#EXTINF:-1 tvg-id="" tvg-name="TV9 NEWS" group-title="Telugu",TV9 NEWS
+#EXTINF:-1 tvg-id="ts11" tvg-name="TV9 NEWS" group-title="Telugu",TV9 NEWS
 http://rv.flysat.live:80/307210013157/307210013157/83986
-#EXTINF:-1 tvg-id="" tvg-name="V6 NEWS" group-title="Telugu",V6 NEWS
+#EXTINF:-1 tvg-id="ts274" tvg-name="V6 NEWS" group-title="Telugu",V6 NEWS
 http://rv.flysat.live:80/307210013157/307210013157/83985
-#EXTINF:-1 tvg-id="" tvg-name="TV5 NEWS" group-title="Telugu",TV5 NEWS
+#EXTINF:-1 tvg-id="ts320" tvg-name="TV5 NEWS" group-title="Telugu",TV5 NEWS
 http://rv.flysat.live:80/307210013157/307210013157/83978
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0440.TV5Telugu.in/en/1x1/208x208/test_pic1542964247055.jpg" tvg-name="TV5 Telugu" group-title="Telugu",TV5 Telugu
+#EXTINF:-1 tvg-id="ts320" tvg-name="TV5 Telugu" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0440.TV5Telugu.in/en/1x1/208x208/test_pic1542964247055.jpg" group-title="Telugu",TV5 Telugu
 https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAJ NEWS TELUGU" group-title="Telugu",RAJ NEWS TELUGU
+#EXTINF:-1 tvg-id="ts430" tvg-name="RAJ NEWS TELUGU" group-title="Telugu",RAJ NEWS TELUGU
 http://rv.flysat.live:80/307210013157/307210013157/83991
-#EXTINF:-1 tvg-id="" tvg-name="10 TV" group-title="Telugu",10 TV
+#EXTINF:-1 tvg-id="832" tvg-name="10 TV" group-title="Telugu",10 TV
 http://rv.flysat.live:80/307210013157/307210013157/83976
-#EXTINF:-1 tvg-id="" tvg-name="SAKSHI TV" group-title="Telugu",SAKSHI TV
+#EXTINF:-1 tvg-id="ts596" tvg-name="SAKSHI TV" group-title="Telugu",SAKSHI TV
 http://rv.flysat.live:80/307210013157/307210013157/83970
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" tvg-name="Mahaa TV" group-title="Telugu",Mahaa TV
+#EXTINF:-1 tvg-id="800" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg" tvg-name="Mahaa TV" group-title="Telugu",Mahaa TV
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/8034.V6News.in/en/1x1/208x208/test_pic1607960004481.jpg" tvg-name="V6 News" group-title="Telugu",V6 News
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/8034.V6News.in/en/1x1/208x208/test_pic1607960004481.jpg" tvg-id="ts274" tvg-name="V6 News" group-title="Telugu",V6 News
 https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/1128.CVRNews.in/en/1x1/208x208/test_pic1543579715467.jpg" tvg-name="CVR News" group-title="Telugu",CVR News
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/1128.CVRNews.in/en/1x1/208x208/test_pic1543579715467.jpg" tvg-id="784" tvg-name="CVR News" group-title="Telugu",CVR News
 https://m-c08-j2apps.s.llnwi.net/hls/1128.CVRNews.in.m3u8
-#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/1127.CVRHealth.in/en/1x1/208x208/test_pic1543579759571.jpg" tvg-name="CVR Health" group-title="Telugu",CVR Health
+#EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/1127.CVRHealth.in/en/1x1/208x208/test_pic1543579759571.jpg" tvg-id="774" tvg-name="CVR Health" group-title="Telugu",CVR Health
 https://m-c08-j2apps.s.llnwi.net/hls/1127.CVRHealth.in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BHAKTI TV" group-title="Telugu", BHAKTI TV
+#EXTINF:-1 tvg-id="ts290" tvg-name="BHAKTI TV" group-title="Telugu", BHAKTI TV
 http://rv.flysat.live:80/307210013157/307210013157/84002
 
 #EXTINF:-1 tvg-id="" tvg-name="GEMINI NEWS" group-title="Telugu",GEMINI NEWS
 http://rv.flysat.live:80/307210013157/307210013157/83975
-#EXTINF:-1 tvg-id="" tvg-name="DD SAPTAGIRI" group-title="Telugu",DD SAPTAGIRI
+#EXTINF:-1 tvg-id="ts337" tvg-name="DD SAPTAGIRI" group-title="Telugu",DD SAPTAGIRI
 http://rv.flysat.live:80/307210013157/307210013157/83974
-#EXTINF:-1 tvg-id="" tvg-name="VISSA TV" group-title="Telugu",VISSA TV
+#EXTINF:-1 tvg-id="ts585" tvg-name="VISSA TV" group-title="Telugu",VISSA TV
 http://rv.flysat.live:80/307210013157/307210013157/83972
 
 #EXTINF:-1 tvg-id="" tvg-name="&Flix Hd" group-title="Movies - English" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg",&Flix Hd
@@ -95,21 +95,21 @@ http://rv.flysat.live:80/307210013157/307210013157/81216
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" group-title="Movies - English" tvg-logo="https://i.imgur.com/L8LTymM.jpg",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" group-title="Movies - English", HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" group-title="Movies - English",HBO 2 HD
 http://rv.flysat.live:80/307210013157/307210013157/81215
-#EXTINF:-1 tvg-id="" tvg-name="HBO ZONE HD" group-title="Movies - English", HBO ZONE HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO ZONE HD" group-title="Movies - English",HBO ZONE HD
 http://rv.flysat.live:80/307210013157/307210013157/81214
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" group-title="Movies - English", HBO SIGNATURE
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" group-title="Movies - English",HBO SIGNATURE
 http://rv.flysat.live:80/307210013157/307210013157/81213
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature" group-title="Movies - English",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=XPcUvt22cPfWlaTvZIFVTopWXz-gcftvZHtYimxZfYl90uif8HFUSu8UFy04VNbRlMKlUwPCfBP-04dw8nM~t4f~7VB5b1L12FsphQy-0DUoRV5W9mF8mm5rab5xFaBbGChVFkvIqfNzae~6zIMAE0LpPukmSYrN-jozArwLO0tTTNpAj0IGM9cHikREQYA-yK5TYA18OvpTsC4MxAbtmYiKnPmQIsYDqgvLKhiQRwCpJRfTWQmkdrOG3wE~B~8htVFuQ9OxukjuiofDQGQPYkp5hP6H2SYWhxNFzS~GBBKAEieJk4gCb7~rXSIaQ9h9OMubcpC4vx9h5S~Sj1-Img__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" group-title="Movies - English",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE2ODU5MDUwfX19XX0_&Signature=CSvs2lSeOnE8Y8ik9hFU2AmsTv9qv82LxOza9BP-PcnkhTCTA1yWKYj2ZZkrXAmHjLVsv5ZPRhR3VY6Mj~6hMUd0Yjz9CxxN2z601SJXzhrXqcz95DZkZivVPNbVLkztIeP31pJz37i4FPVDfedvRJWB1k1aVuxPTKs7STTPTLSLRReBbeE-TE9D72Gz20a5vs1bJeRVDqqTNWxqeoouK0XRamXQrGm0RUl6-CXQgdbe48N0selurGFoPcjW9m8aJtbL9NvUfdhuCcunhReM~I02sINjOTFr1xnzmAOb~xRccvCyfvFTr0VTHGDE07ATsPWafL~c0geuKu9XKh3NLA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" group-title="Movies - English", HBO FAMILY HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" group-title="Movies - English",HBO FAMILY HD
 http://rv.flysat.live:80/307210013157/307210013157/81212
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" group-title="Movies - English",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MTY4NTkwNTB9fX1dfQ__&Signature=WmAH4TlOSLquNm9os2qzNm9DI35GAceSQ9ac7CPmWkZ~rUNr8reKyLradmMKuHYQF4d68HmOwVGF5WM2rsn3POJDe4t8wR9xnsIITgslI9wWGjpUWOGEeDf-g88kTUoeDwi-YwlW4MdgKMGSa~OpdDm19XygFpit2IlmpZi3KtBl7p~vxrlx30SjOdC06Bj6vC~aUX5bFO2~L9osDwlhREJytLYDfPN8hf2w8T3vnEsjoYuueMvGZUk0nxDKXj3BMrHv2C-w8Hfx83PIyJ5Qp1dIfWBXXGmOBELzvyh7f04G0gLWr8I-mS6yQDG-v~ON5CnO0FmloihQtCaEaABUIg__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-#EXTINF:-1 tvg-id="" tvg-name="HBO COMEDY HD" group-title="Movies - English", HBO COMEDY HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO COMEDY HD" group-title="Movies - English",HBO COMEDY HD
 http://rv.flysat.live:80/307210013157/307210013157/81211
 #EXTINF:-1 tvg-id="" tvg-name="HALLMARK MOVIES & MYSTERIES HD" group-title="Movies - English", HALLMARK MOVIES & MYSTERIES HD
 http://rv.flysat.live:80/307210013157/307210013157/81210
