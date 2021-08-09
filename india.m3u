@@ -150,7 +150,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7223
 #EXTINF:-1 tvg-id="" tvg-name="Fox Crime" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/956e6c6e1bf91476f99d573849bbe706.jpg",Fox Crime
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7225
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" group-title="Movies - English" tvg-logo="http://tvmalaysia.cc:80/images/ac70f22a3e263c94424e4f488136489e.png",Star Movies HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8997
+http://portal.alliptvapp.com:8080/OeEgXaaAfi/15t6AXbgEp/45023
 #EXTINF:-1 tvg-id="" tvg-name="Movies Now" group-title="Movies - English",Movies Now
 http://iptv.tvmalaysia.cc:80/penang172/penang172/8999
 
@@ -207,6 +207,18 @@ https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 Sd" group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3_Masthead_Logo.png",Sony Ten 3 Sd
 https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" group-title="Sports" tvg-logo="",Star Sports 1 HD
+http://portal.alliptvapp.com:8080/OeEgXaaAfi/15t6AXbgEp/45039
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" group-title="Sports" tvg-logo="",Star Sports 2 HD
+http://portal.alliptvapp.com:8080/OeEgXaaAfi/15t6AXbgEp/45038
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3" group-title="Sports" tvg-logo="",Star Sports 3 HD
+http://portal.alliptvapp.com:8080/OeEgXaaAfi/15t6AXbgEp/45037
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 4" group-title="Sports" tvg-logo="",Star Sports 4
+http://portal.alliptvapp.com:8080/OeEgXaaAfi/15t6AXbgEp/45034
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD" group-title="Sports" tvg-logo="",Star Sports Select 1 HD
+http://portal.alliptvapp.com:8080/OeEgXaaAfi/15t6AXbgEp/45033
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD" group-title="Sports" tvg-logo="",Star Sports Select 2 HD
+http://portal.alliptvapp.com:8080/OeEgXaaAfi/15t6AXbgEp/45032
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" group-title="Sports" tvg-logo="https://i.imgur.com/R6HReXT.png",Sky Sports Cricket
 http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" group-title="Sports" tvg-logo="https://i.imgur.com/C49YuUd.jpg",Sky Sports Football
@@ -224,7 +236,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee World" group-title="Entertainment - English",Zee World
 https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select" group-title="Entertainment - Hindi" tvg-logo="",Star Gold Select
+http://portal.alliptvapp.com:8080/OeEgXaaAfi/15t6AXbgEp/45027
 #EXTINF:-1 tvg-id="" tvg-name="Star Gold 2 4K" group-title="Entertainment - Hindi" tvg-logo="https://i.imgur.com/YvGtRg7.png",Star Gold 2 4K
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Hd" group-title="Entertainment - Hindi" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png",Sony Hd
@@ -345,7 +358,7 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-name="Republic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_TV.jpg/200px-Republic_TV.jpg" group-title="News",Republic TV
-https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwv6GmqLh-_L5qqd4rP-0dIDNzw1qz1AQfYWbHm2L-a1b/ts
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg" group-title="Music",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2144.CVREnglishNews.in/en/1x1/208x208/test_pic1543579746368.jpg" group-title="News",CVR English News
